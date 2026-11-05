@@ -64,4 +64,4 @@ Online Retail Dataset – UCI Machine Learning Repository.
 
 Author
 
-Business Analyst Portfolio Projec
+Business Analyst Portfolio Project
