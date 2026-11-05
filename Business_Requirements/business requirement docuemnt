@@ -1,1 +1,104 @@
+# Business Requirements Document (BRD)
 
+## 1. Project Information
+
+**Project Name:** E-commerce Sales Performance & Customer Behaviour Analysis
+
+**Company:** xyz Online Retail Ltd. (Fictional)
+
+**Project Role:** Junior Business Analyst
+
+**Project Status:** In Progress
+
+## 2. Business Background
+
+xyz Online Retail Ltd. is an e-commerce company experiencing inconsistent sales performance.
+
+The company wants to better understand its sales trends, product performance and customer purchasing behaviour.
+
+Currently, the business lacks sufficient insights to make informed decisions about sales improvement and customer retention.
+
+## 3. Business Problem
+
+The company faces the following challenges:
+
+- Inconsistent monthly sales performance.
+- Limited understanding of customer purchasing behaviour.
+- Lack of visibility into top,low performing products.
+- Difficulty identifying valuable customer segments.
+- Limited data driven insights for business decisions.
+
+## 4. Business Objectives
+
+The main objectives are:
+
+1. Analyse overall sales performance.
+2. Identify the highest and lowest performing products.
+3. Understand monthly revenue trends.
+4. Analyse customer purchasing behaviour.
+5. Identify opportunities to improve customer retention.
+6. Provide recommendations to improve business performance.
+
+## 5. Project Scope
+
+### In Scope
+
+- Sales data analysis.
+- Product performance analysis.
+- Customer behaviour analysis.
+- Revenue trend analysis.
+- Country wise sales analysis.
+- Data visualisation and reporting.
+- Business recommendations.
+
+### Out of Scope
+
+- Developing a new e-commerce website.
+- Implementing a payment system.
+- Managing inventory operations.
+- Launching marketing campaigns.
+- Changing the company's existing IT infrastructure.
+
+## 6. Business Requirements
+
+| ID | Business Requirement | Priority |
+|---|---|---|
+| BR01 | The business needs to monitor overall sales performance. | High |
+| BR02 | The business needs to identify top-performing products. | High |
+| BR03 | The business needs to understand monthly revenue trends. | High |
+| BR04 | The business needs to analyse customer purchasing behaviour. | High |
+| BR05 | The business needs to identify sales performance by country. | Medium |
+| BR06 | The business needs a dashboard to visualise key business metrics. | High |
+
+## 7. Success Criteria
+
+The project will be considered successful when:
+
+- Sales performance has been analysed.
+- Top- and low-performing products have been identified.
+- Customer purchasing patterns have been evaluated.
+- Revenue trends have been visualised.
+- A Power BI dashboard has been developed.
+- Actionable business recommendations have been documented.
+
+## 8. Assumptions
+
+- Historical sales transaction data will be available.
+- The dataset contains relevant product and customer information.
+- Sales data can be analysed using Excel, SQL and Power BI.
+- The analysis will be based on the available historical data.
+
+## 9. Deliverables
+
+- Business Requirements Document.
+- Stakeholder Analysis.
+- Data Cleaning and Analysis.
+- SQL Queries.
+- Power BI Dashboard.
+- Business Recommendations.
+
+## 10. Conclusion
+
+This project aims to provide ABC Online Retail Ltd. with meaningful insights into sales performance and customer purchasing behaviour.
+
+The findings will help management make informed business decisions and identify opportunities for improvement.
