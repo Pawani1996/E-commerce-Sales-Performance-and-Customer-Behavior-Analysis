@@ -1,1 +1,29 @@
+# Functional Requirements
 
+## 1. Introduction
+
+This document defines the functional requirements for the E-commerce Sales Performance & Customer Behaviour Analysis project.
+
+## 2. Functional Requirements
+
+| ID | Requirement | Description | Priority |
+|---|---|---|---|
+| FR01 | Revenue Monitoring | The dashboard must display total revenue. | High |
+| FR02 | Monthly Sales | The dashboard must show monthly sales trends. | High |
+| FR03 | Product Analysis | The dashboard must identify top-selling products. | High |
+| FR04 | Country Analysis | The dashboard must display revenue by country. | Medium |
+| FR05 | Customer Analysis | The dashboard must show customer purchasing behaviour. | High |
+| FR06 | Sales Comparison | Users must be able to compare sales across different periods. | Medium |
+
+## 3. Non-Functional Requirements
+
+| ID | Requirement | Description |
+|---|---|---|
+| NFR01 | Usability | The dashboard should be easy to navigate. |
+| NFR02 | Performance | The dashboard should load efficiently. |
+| NFR03 | Accuracy | Calculations should accurately reflect the source data. |
+| NFR04 | Security | Business data should only be accessible to authorised users. |
+
+## 4. Conclusion
+
+These requirements will guide the development of the sales analysis dashboard and ensure that the solution addresses the business needs of ABC Online Retail Ltd.
