@@ -1,1 +1,31 @@
+# Data Quality Assessment
 
+## 1. Project Overview
+
+This document evaluates the quality of the Online Retail dataset before conducting business analysis.
+
+## 2. Dataset Information
+
+- Dataset Name: Online Retail Dataset
+- Source: UCI Machine Learning Repository
+- File Format: Excel (.xlsx)
+- Business Domain: E-commerce / Retail
+
+## 3. Data Quality Checks
+
+The following checks will be performed:
+
+1. Missing values
+2. Duplicate records
+3. Negative quantities
+4. Zero unit prices
+5. Negative unit prices
+6. Incorrect data formats
+
+## 4. Data Quality Findings
+
+Findings will be documented after examining the dataset.
+
+## 5. Recommendations
+
+Recommendations will be added based on the data quality assessment.
