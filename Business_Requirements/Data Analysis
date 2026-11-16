@@ -72,6 +72,51 @@ Missing product descriptions may create challenges when analysing product perfor
 
 Investigate missing records before conducting customer and product-level analysis. Avoid deleting records without understanding their business context.
 
+4.2 Negative Quantity Assessment
+
+The Quantity column was examined to identify transactions containing negative quantities.
+
+**Results:**
+
+| Description | Record Count |
+|---|---:|
+| Records with negative quantities | 10,624 |
+
+**Key Finding:**
+
+A total of 10,624 records contain negative quantities. These transactions may represent product returns, cancellations or credit transactions.
+
+**Business Impact:**
+
+Negative quantities can affect sales performance calculations. If returns are ignored, net revenue may be overstated.
+
+**Recommendation:**
+
+Investigate negative quantity transactions and distinguish returns and cancellations from regular sales before calculating net revenue. Preserve these records for further analysis.
+### 4.4 Zero Unit Price Assessment
+
+The UnitPrice column was examined to identify transactions where the product price was zero.
+
+**Results:**
+
+| Description | Record Count |
+|---|---:|
+| Records with zero UnitPrice | 2,515 |
+
+**Key Finding:**
+
+A total of 2,515 records contain a zero unit price.
+
+These transactions may represent free promotional products, complimentary items, special offers or possible data entry errors.
+
+**Business Impact:**
+
+Zero-price transactions may affect revenue and product performance analysis if they are not properly investigated.
+
+**Recommendation:**
+
+Investigate zero-price transactions to understand their business purpose. Do not automatically remove them from the dataset.
+
 ## 5. Recommendations
 
 Recommendations will be added based on the data quality assessment.
