@@ -89,6 +89,27 @@ A total of 10,624 records contain negative quantities. These transactions may re
 **Business Impact:**
 
 Negative quantities can affect sales performance calculations. If returns are ignored, net revenue may be overstated.
+### 4.5 Negative Unit Price Assessment
+
+The UnitPrice column was examined to identify transactions containing negative prices.
+
+**Results:**
+
+| Description | Record Count |
+|---|---:|
+| Records with negative UnitPrice | 2 |
+
+**Key Finding:**
+
+A total of two records contain negative unit prices. These transactions require further investigation because negative prices are unusual in ordinary product sales.
+
+**Business Impact:**
+
+Including negative price adjustments in ordinary product sales calculations may distort product revenue analysis.
+
+**Recommendation:**
+
+Investigate the descriptions and transaction details of these records. Classify them appropriately before conducting sales analysis.
 
 **Recommendation:**
 
