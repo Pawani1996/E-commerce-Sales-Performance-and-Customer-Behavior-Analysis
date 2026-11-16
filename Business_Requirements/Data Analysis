@@ -138,6 +138,23 @@ Zero-price transactions may affect revenue and product performance analysis if t
 
 Investigate zero-price transactions to understand their business purpose. Do not automatically remove them from the dataset.
 
-## 5. Recommendations
+### 4.6 Data Format Assessment
 
-Recommendations will be added based on the data quality assessment.
+The data formats of important dataset columns were examined using Microsoft Excel.
+
+**Results:**
+
+| Column | Observed Format | Assessment |
+|---|---|---|
+| InvoiceDate | Date/Time | Appears valid |
+| Quantity | Number | Appropriate |
+| UnitPrice | Number | Appropriate |
+| CustomerID | Number | Appropriate for identification |
+
+**Key Findings:**
+
+The InvoiceDate column displays date and time values. Quantity, UnitPrice and CustomerID are stored as numeric values.
+
+**Recommendation:**
+
+Maintain consistent data types during data preparation. CustomerID should be treated as an identifier rather than a measure in business calculations.
